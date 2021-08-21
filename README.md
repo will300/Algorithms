@@ -6,6 +6,7 @@ The list of problems is taken from the final two question chapters of the book *
 
 The following is a list of short descriptions for each problem
 
+### Moderate
 * **number_swapper.py**: swap two array elements in-place
 * **word_frequencies.py**: find all word frequencies from a long text
 * **intersection.py**: find the point of intersection of two straight lines
@@ -28,6 +29,7 @@ The following is a list of short descriptions for each problem
 * **rand7_from_rand5.py**: generate a random number between 0 and 6 given a random number generator between 0 and 4
 * **pairs_with_sum.py**: pairs of integers within array with specified sum
 
+### Hard
 * **add_without_plus.py**: add two numbers without using plus operator
 * **shuffle.py**: shuffle a deck of 52 cards with each permutation being equally likely
 * **random_set.py**: randomly generate subset from array
