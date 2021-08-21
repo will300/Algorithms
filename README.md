@@ -1,6 +1,6 @@
 # Algorithms
 
-This repository contains a collection of algorithms coded in Python for copying, chopping up, translating etc wherever they may be of use. The output of each file is the success status of a set of test cases.
+This repository contains a collection of algorithms coded in Python intended for copying, chopping up, translating etc wherever they may be of use. The output of each file is the success status of a set of test cases.
 
 The list of problems is taken from the final two question chapters of the book *Cracking the Coding Interview* by Gayle Laakmann McDowell.
 
